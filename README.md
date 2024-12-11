@@ -16,5 +16,13 @@ This is a flight management system implemented in C. It allows you to manage air
 
 To run the program, you need to provide two arguments: the file name for the airport manager data and the file name for the company data.
 
-```bash
-./flight_management_system manager_data.txt company_data.txt
+## Installation
+1. Clone this repository:
+   ```bash
+   git clone https://github.com/your-username/Airport-Manager.git
+   ```
+2. Navigate to the project directory:
+   ```bash
+   cd Airport-Manager
+   ```
+3. Ensure a compatible C compiler is installed on your system (e.g., GCC).
